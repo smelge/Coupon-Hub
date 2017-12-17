@@ -1,0 +1,1 @@
+<input type="file" id="getimage" name="offerimage"/>
